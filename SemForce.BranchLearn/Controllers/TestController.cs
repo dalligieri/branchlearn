@@ -16,7 +16,7 @@ namespace SemForce.BranchLearn.Controllers
 
         public ActionResult Test()
         {
-            throw new NotImplementedException();
+            return View();
         }
     }
 }
